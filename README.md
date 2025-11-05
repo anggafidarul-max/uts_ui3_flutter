@@ -1,6 +1,6 @@
 # UTS Mobile Programming Flutter - UI 3 Halaman
 
-Proyek ini dibuat untuk memenuhi tugas UTS mata kuliah *Desain Web / Mobile (Flutter)*.
+Proyek ini dibuat untuk memenuhi tugas UTS mata kuliah Mobile (Flutter)*.
 Aplikasi terdiri dari 3 halaman utama:
 
 #1. Halaman Login
