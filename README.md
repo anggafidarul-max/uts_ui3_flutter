@@ -70,7 +70,6 @@ Screenshot Tampilan
 * Dashboard Page
 * Profil Page
 
-(Sertakan 3 screenshot di sini)
 
 ---
 
